@@ -1,0 +1,32 @@
+C:\Users\b-j-e\Desktop\Practica MCGA R2\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\b-j-e\Desktop\Practica MCGA R2\bin\Debug\net6.0\appsettings.json
+C:\Users\b-j-e\Desktop\Practica MCGA R2\bin\Debug\net6.0\Practica MCGA R2.exe
+C:\Users\b-j-e\Desktop\Practica MCGA R2\bin\Debug\net6.0\Practica MCGA R2.deps.json
+C:\Users\b-j-e\Desktop\Practica MCGA R2\bin\Debug\net6.0\Practica MCGA R2.runtimeconfig.json
+C:\Users\b-j-e\Desktop\Practica MCGA R2\bin\Debug\net6.0\Practica MCGA R2.dll
+C:\Users\b-j-e\Desktop\Practica MCGA R2\bin\Debug\net6.0\Practica MCGA R2.pdb
+C:\Users\b-j-e\Desktop\Practica MCGA R2\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\b-j-e\Desktop\Practica MCGA R2\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\b-j-e\Desktop\Practica MCGA R2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\b-j-e\Desktop\Practica MCGA R2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\b-j-e\Desktop\Practica MCGA R2\obj\Debug\net6.0\Practica MCGA R2.csproj.AssemblyReference.cache
+C:\Users\b-j-e\Desktop\Practica MCGA R2\obj\Debug\net6.0\Practica MCGA R2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\b-j-e\Desktop\Practica MCGA R2\obj\Debug\net6.0\Practica MCGA R2.AssemblyInfoInputs.cache
+C:\Users\b-j-e\Desktop\Practica MCGA R2\obj\Debug\net6.0\Practica MCGA R2.AssemblyInfo.cs
+C:\Users\b-j-e\Desktop\Practica MCGA R2\obj\Debug\net6.0\Practica MCGA R2.csproj.CoreCompileInputs.cache
+C:\Users\b-j-e\Desktop\Practica MCGA R2\obj\Debug\net6.0\Practica MCGA R2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\b-j-e\Desktop\Practica MCGA R2\obj\Debug\net6.0\Practica MCGA R2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\b-j-e\Desktop\Practica MCGA R2\obj\Debug\net6.0\staticwebassets\msbuild.Practica MCGA R2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\b-j-e\Desktop\Practica MCGA R2\obj\Debug\net6.0\staticwebassets\msbuild.build.Practica MCGA R2.props
+C:\Users\b-j-e\Desktop\Practica MCGA R2\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Practica MCGA R2.props
+C:\Users\b-j-e\Desktop\Practica MCGA R2\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Practica MCGA R2.props
+C:\Users\b-j-e\Desktop\Practica MCGA R2\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\b-j-e\Desktop\Practica MCGA R2\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\b-j-e\Desktop\Practica MCGA R2\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\b-j-e\Desktop\Practica MCGA R2\obj\Debug\net6.0\scopedcss\bundle\Practica MCGA R2.styles.css
+C:\Users\b-j-e\Desktop\Practica MCGA R2\obj\Debug\net6.0\Practica MCGA R2.csproj.CopyComplete
+C:\Users\b-j-e\Desktop\Practica MCGA R2\obj\Debug\net6.0\Practica MCGA R2.dll
+C:\Users\b-j-e\Desktop\Practica MCGA R2\obj\Debug\net6.0\refint\Practica MCGA R2.dll
+C:\Users\b-j-e\Desktop\Practica MCGA R2\obj\Debug\net6.0\Practica MCGA R2.pdb
+C:\Users\b-j-e\Desktop\Practica MCGA R2\obj\Debug\net6.0\Practica MCGA R2.genruntimeconfig.cache
+C:\Users\b-j-e\Desktop\Practica MCGA R2\obj\Debug\net6.0\ref\Practica MCGA R2.dll
